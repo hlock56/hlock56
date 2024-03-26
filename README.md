@@ -5,7 +5,7 @@ I live in Cedar Rapids, Iowa. I enjoy golfing, hanging out with friends, and mak
 <a href="mailto:craig.hlock@gmail.com"><img src="https://img.shields.io/badge/Gmail-c91b12?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/craig-harlock-9582b7105/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Technologies
+### Development Stack
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
