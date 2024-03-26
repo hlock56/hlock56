@@ -3,6 +3,7 @@ I live in Cedar Rapids, Iowa. I like golfing, hanging out with friends, and maki
 
 ### Reach Me
 <a href="mailto:craig.hlock@gmail.com"><img src="https://img.shields.io/badge/Gmail-c91b12?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/craig-harlock-9582b7105/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **hlock56/hlock56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
