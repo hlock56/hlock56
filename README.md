@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Craig. 👋
+I live in Cedar Rapids, Iowa. I like golfing, hanging out with friends, and making web applications. Full-Stack Developer @ LimoLink.
 
 <!--
 **hlock56/hlock56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
