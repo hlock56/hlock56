@@ -1,6 +1,9 @@
 ### Hi, I'm Craig. 👋
 I live in Cedar Rapids, Iowa. I like golfing, hanging out with friends, and making web applications. Full-Stack Developer @ LimoLink.
 
+### Reach Me
+<a href="mailto:craig.hlock@gmail.com"><img src="https://img.shields.io/badge/Gmail-c91b12?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 <!--
 **hlock56/hlock56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
