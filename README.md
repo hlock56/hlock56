@@ -1,5 +1,5 @@
 ### Hi, I'm Craig. 👋
-I live in Cedar Rapids, Iowa. I like golfing, hanging out with friends, and making web applications. Full-Stack Developer @ LimoLink.
+I live in Cedar Rapids, Iowa. I like golfing, hanging out with friends, and making web applications. <br>Full-Stack Developer @ LimoLink.
 
 ### Reach Me
 <a href="mailto:craig.hlock@gmail.com"><img src="https://img.shields.io/badge/Gmail-c91b12?style=for-the-badge&logo=gmail&logoColor=white"></a>
