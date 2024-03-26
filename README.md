@@ -15,6 +15,8 @@ I live in Cedar Rapids, Iowa. I enjoy golfing, hanging out with friends, and mak
 </div>
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/C%23-870cc4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  
 </div>
   
 
